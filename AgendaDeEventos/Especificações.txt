@@ -1,0 +1,7 @@
+Site sobre Agenda de Eventos
+
+Objetivo:
+Desenvolver uma página web que contenha informações sobre eventos, inicialmente para a área de tecnologia e mulheres mas que será expandido para diversas áreas.
+
+Tecnologias utilizadas:
+
